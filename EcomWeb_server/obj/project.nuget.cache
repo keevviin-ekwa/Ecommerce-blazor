@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0/uAWBWP7Ncg0+rit7xLEiskzf5TY8jBTvZuu5xrg83yNXrp8oWn79aG4a4yS+FyNMDYi/ns9rYk4IpBOfyS/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bayard N. EKWA\\source\\repos\\BlazorTuto\\Ecom\\EcomWeb_server\\EcomWeb_server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bayard N. EKWA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Bayard N. EKWA\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Bayard N. EKWA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Bayard N. EKWA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

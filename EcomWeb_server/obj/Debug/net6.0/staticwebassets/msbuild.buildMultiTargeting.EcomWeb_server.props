@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EcomWeb_server.props" />
+</Project>
